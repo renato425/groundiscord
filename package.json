@@ -1,0 +1,21 @@
+{
+  "name": "ground-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "discord-slash-commands-client": "^1.2.2",
+    "discord.js": "^13.7.0",
+    "firebase": "^8.10.0",
+    "mathjs": "^5.10.3",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.1.0"
+  }
+}
